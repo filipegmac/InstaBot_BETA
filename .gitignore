@@ -1,0 +1,13 @@
+# Adicione este arquivo ao .gitignore para proteger suas credenciais
+.env
+*.pyc
+__pycache__/
+*.log
+sessions/
+data/*.json
+logs/*.log
+.DS_Store
+*.swp
+*.swo
+.vscode/
+.idea/

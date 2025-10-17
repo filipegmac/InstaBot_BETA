@@ -1,0 +1,9 @@
+# Versões compatíveis com Python 3.11
+instagrapi==2.0.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+colorama>=0.4.6
+tqdm>=4.66.1
+fake-useragent>=1.4.0
+pydantic>=1.10,<2.0
+Pillow>=8.1.1
